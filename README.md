@@ -28,7 +28,6 @@ CertiRide ensures tamper-proof vehicle lifecycle data through blockchain technol
 - Trusted service history  
 - Secure document uploads  
 - Transparent ownership management  
-- Verification for buyers and sellers  
 
 Designed for Sri Lanka’s automotive ecosystem with future expansion in mind.
 
